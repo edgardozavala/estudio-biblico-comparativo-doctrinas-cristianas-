@@ -310,7 +310,7 @@ No. El adventismo rechaza el cesacionismo (la doctrina de que los dones espiritu
 # Anexo: Comparación General
 
 
-Perfecto. Yo la organizaría como una **matriz académica**, donde cada fila es una tradición y cada columna una doctrina. Así tendrías un documento de consulta mucho más útil que el debate. La información siguiente resume el contenido del documento. 
+Se presenta una **matriz académica**, que sirve como documento de consulta útil simplificado. La información siguiente resume el contenido del documento. 
 
 | Doctrina                       | Católica                           | Ortodoxa                                   | Luterana            | Reformada            | Anglicana                       | Bautista                        | Metodista                         | Pentecostal                      | Adventista                      | Testigos de Jehová                           | Santos de los Últimos Días                              |
 | ------------------------------ | ---------------------------------- | ------------------------------------------ | ------------------- | -------------------- | ------------------------------- | ------------------------------- | --------------------------------- | -------------------------------- | ------------------------------- | -------------------------------------------- | ------------------------------------------------------- |
